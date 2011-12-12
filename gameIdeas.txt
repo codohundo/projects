@@ -1,0 +1,2 @@
+control teritory outer shell is vulnerable, inner shell is safe
+
